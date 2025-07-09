@@ -1,0 +1,17 @@
+Feature,Coefficient
+longitude,-280925.0678205778
+latitude,-248088.3610417733
+housing_median_age,57245.77638702688
+total_rooms,78720.08733238044
+total_bedrooms,92116.84216593225
+population,-1451358.19874956
+households,640676.2773345636
+median_income,613401.55424491
+rooms_per_household,483543.8265247061
+bedrooms_per_room,269910.53936542117
+population_per_household,72308.98106029393
+income_per_person,-260704.93205551844
+ocean_proximity_INLAND,-34181.12720907167
+ocean_proximity_ISLAND,130714.26474471777
+ocean_proximity_NEAR BAY,-5048.653192993836
+ocean_proximity_NEAR OCEAN,3311.179922250267
