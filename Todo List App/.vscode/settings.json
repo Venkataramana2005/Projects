@@ -1,0 +1,6 @@
+{
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "terminal.integrated.commandsToSkipShell": [
+        // Put valid commands here, if any
+    ]
+}
