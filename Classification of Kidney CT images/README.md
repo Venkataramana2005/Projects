@@ -39,10 +39,10 @@ Uses TensorFlow/Keras for model development and training.
 ### Usage
 
 1. Install required dependencies using:
- 'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 2. Open and run the notebook:
-'kidney_ct_classification.ipynb'
+`kidney_ct_classification.ipynb`
 
 3.Follow the notebook cells for:
 
